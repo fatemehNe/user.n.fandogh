@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # user
 
 > Nuxt.js project
@@ -20,3 +21,7 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+=======
+# user.n.fandogh
+nuxt project
+>>>>>>> ffc41a8e880a51b2b20fc36eac5df2970de02ee2
